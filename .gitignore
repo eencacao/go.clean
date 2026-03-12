@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/go.clean
+
+# Test binary
+*.test
+
+# Build output
+/bin/
+
+# Go workspace
+go.work
+go.work.sum
